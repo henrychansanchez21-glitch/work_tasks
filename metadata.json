@@ -1,0 +1,6 @@
+{
+  "name": "Video Sentinel",
+  "description": "Aplicación de reproducción de videos con autenticación mediante keys vinculadas a Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
